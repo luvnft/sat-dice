@@ -1,5 +1,5 @@
 # sats-dice 
 
 🎲
-[roll the dice](https://sats-per-hour.vercel.app/)
+[roll the dice](https://satoshi-dice.vercel.app/)
  satoshi-dice

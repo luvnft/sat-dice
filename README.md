@@ -1,7 +1,5 @@
-# sats-per-hour
+# sats-dice 
 
-🇲🇽
-[MXN -> Sats](https://sats-per-hour.vercel.app/)
-
-converts MXN Pesos to Sats# satoshi-dice
-# satoshi-dice
+🎲
+[roll the dice](https://sats-per-hour.vercel.app/)
+ satoshi-dice
